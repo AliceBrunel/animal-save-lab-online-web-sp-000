@@ -10,6 +10,8 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (min-width: 980px) {
-  .wrapper { width: 960px; }
+@media only screen and (min-width: 1200px) {
+  #bear {
+    position: ;
+  }
 }
